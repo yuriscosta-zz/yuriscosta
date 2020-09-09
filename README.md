@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there, I'm Yuri 👋
 
-<!--
-**yuriscosta/yuriscosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Back-End at [Fohat](fohat.co) 🏡 Brazilian 🌎 Natal.
 
-Here are some ideas to get you started:
+### You can find me here 🌎
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://dev.to/yurishenrique"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=20></a>
+[![Linkedin Badge](https://img.shields.io/badge/-yuriscosta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuriscosta)](https://www.linkedin.com/in/yuriscosta)
+[![Twitter Badge](https://img.shields.io/twitter/follow/_yurisales?style=social)](https://twitter.com/_yurisales)
+
+- :mortar_board: Degree in Systems Analysis and Development.
+- 🌱 I’m currently learning Graphene, TDD & DDD.
+- :computer: I’m looking to collaborate on python projects.
+
+#### Interests :shipit:
+- :book: Distributed Systems
+- :computer: Functional Programming
+- :computer: Web Development
+- :dollar: Austrian Economics
+- :headphones: 80's music
+- :guitar: Ukulele
