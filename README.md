@@ -16,6 +16,5 @@
 - :book: Distributed Systems
 - :computer: Functional Programming
 - :computer: Web Development
-- :dollar: Austrian Economics
 - :headphones: 80's music
 - :guitar: Ukulele
