@@ -1,6 +1,6 @@
 ### Hi there, I'm Yuri 👋
 
-💻 Back-End at [Fohat](fohat.co) 🏡 Brazilian 🌎 Natal.
+💻 Back-End at [Fohat](fohat.co) 🌎 Brazil 🏡 Natal.
 
 ### You can find me here 🌎
 
